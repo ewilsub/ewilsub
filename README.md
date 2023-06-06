@@ -8,8 +8,6 @@ I'm currently working on my PhD thesis on the effects of urban expansion on Pata
 &nbsp;
 
 
-I also do data cleaning, analysis and visualization as a part time freelancer 😉.
-&nbsp;
 
 &nbsp;
 
