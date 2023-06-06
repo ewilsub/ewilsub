@@ -24,7 +24,7 @@ I also do data cleaning, analysis and visualization as a part time freelancer ðŸ
 ## ðŸ“« Let's get in touch
 [![Gmail Badge](https://img.shields.io/badge/ewilsub@gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&&link=mailto:ewilsub@gmail.com)](mailto:ewilsub@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/542945552622-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/542945552622)
-[![Twitter Badge](https://img.shields.io/badge/notoperla-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&&link=https://twitter.com/ewilsub)](https://twitter.com/ewilsub)
+[![Twitter Badge](https://img.shields.io/badge/ewilsub-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&&link=https://twitter.com/ewilsub)](https://twitter.com/ewilsub)
 
 
 
