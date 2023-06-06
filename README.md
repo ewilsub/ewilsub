@@ -1,4 +1,6 @@
-![banner personal](https://github.com/emiliows/emiliows/assets/135620901/506555a9-97ac-4f46-a6e0-950af80a874e)
+
+![banner personal](https://github.com/ewilsub/ewilsub/assets/135620901/188187e7-0e2c-4144-a85b-64c782aad4f2)
+
 ## 👋 Hello there! </br>
 I'm  *Emilio Williams-Subiza*, an ecologist based in Argentina. I research the causes of ***biodiversity change*** in freshwater environments. 
 More specifically, how human activities affect biological communities, and the consequences for ecosystems and people.
@@ -22,7 +24,7 @@ I also do data cleaning, analysis and visualization as a part time freelancer �
 ## 📫 Let's get in touch
 [![Gmail Badge](https://img.shields.io/badge/ewilsub@gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&&link=mailto:ewilsub@gmail.com)](mailto:ewilsub@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/542945552622-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/542945552622)
-[![Twitter Badge](https://img.shields.io/badge/notoperla-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&&link=https://twitter.com/notoperla)](https://twitter.com/notoperla)
+[![Twitter Badge](https://img.shields.io/badge/notoperla-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&&link=https://twitter.com/ewilsub)](https://twitter.com/ewilsub)
 
 
 
