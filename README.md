@@ -7,7 +7,7 @@ More specifically, how human activities affect biological communities, and the c
 I'm currently working on my PhD thesis on the effects of urban expansion on Patagonian streams. *I'll be using GitHub to share the R code used in my publications and projects.*
 &nbsp;
 
-
+I also do data cleaning, analysis and visualization as a part time freelancer 😉
 
 &nbsp;
 
