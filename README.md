@@ -1,8 +1,8 @@
-
-![banner personal](https://github.com/ewilsub/ewilsub/assets/135620901/188187e7-0e2c-4144-a85b-64c782aad4f2)
+![banner personal](https://github.com/ewilsub/ewilsub/assets/135620901/471ff508-b89b-4c58-9f5b-e8ef57dcf200)
 
 ## 👋 Hello there! </br>
 I'm  *Emilio Williams-Subiza*, an ecologist based in Argentina. I research the causes of ***biodiversity change*** in freshwater environments. 
+
 More specifically, how human activities affect biological communities, and the consequences for ecosystems and people.
 I'm currently working on my PhD thesis on the effects of urban expansion on Patagonian streams. *I'll be using GitHub to share the R code used in my publications and projects.*
 &nbsp;
