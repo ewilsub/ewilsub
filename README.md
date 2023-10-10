@@ -1,6 +1,6 @@
 ![banner personal](https://github.com/ewilsub/ewilsub/assets/135620901/471ff508-b89b-4c58-9f5b-e8ef57dcf200)
 
-## 👋 Hello there! </br>
+## 👋 Hello there!
 I'm  *Emilio Williams-Subiza*, an ecologist based in Argentina. I research the causes of ***biodiversity change*** in freshwater environments. 
 
 More specifically, how human activities affect biological communities, and the consequences for ecosystems and people.
