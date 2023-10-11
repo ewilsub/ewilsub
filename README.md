@@ -3,8 +3,9 @@
 ## 👋 Hello there!
 I'm  *Emilio Williams-Subiza*, an ecologist based in Argentina. I research the causes of ***biodiversity change*** in freshwater environments. 
 
-More specifically, how human activities affect biological communities, and the consequences for ecosystems and people.
-Currently I'm a postdoc trying to understand the spatial patterns of biofilm biodiversity in Patagonian rivers. *I'll be using GitHub to share the R code from my publications and projects.*
+More specifically, how human activities affect biological communities, and the consequences for ecosystems and people.<br>
+Currently I'm a postdoc trying to understand the spatial patterns of biofilm biodiversity in Patagonian rivers. <br>
+*I'll be using GitHub to share the R code from my publications and projects.*
 &nbsp;
 
 &nbsp;
